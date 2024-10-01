@@ -1,0 +1,16 @@
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\API.exe
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\API.dll
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\API.deps.json
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\API.runtimeconfig.json
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\API.pdb
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\Firebase.Storage.dll
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\Flurl.dll
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\Flurl.Http.dll
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\Mammoth.dll
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kevin Marmet\Desktop\API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
